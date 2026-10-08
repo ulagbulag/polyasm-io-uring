@@ -30,7 +30,7 @@ libc = { version = "0.2.98", default-features = false }
 sc = { version = "0.2", optional = true }
 
 [build-dependencies]
-bindgen = { version = "0.69", optional = true }
+bindgen = { version = "0.72", optional = true }
 
 [dev-dependencies]
 anyhow = "1"
